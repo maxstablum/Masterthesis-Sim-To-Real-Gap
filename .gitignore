@@ -1,0 +1,6 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Ignore Excel temporary files
+~$SLR_Analysis.xlsx
+# Ignore Mac system files
+.DS_Store
